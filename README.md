@@ -8,5 +8,5 @@ https://github.com/DarrenJAN/homework2
 ## Project
 https://github.com/DarrenJAN/portfolio-content
 
-##Github IO
+## Github IO
 https://darrenjan.github.io/
