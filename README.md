@@ -5,6 +5,9 @@ This is for UMICH course SI539
 https://github.com/DarrenJAN/homework1
 ### Homework2
 https://github.com/DarrenJAN/homework2
+### Homework3
+https://darrenjan.github.io/homework3/
+https://github.com/DarrenJAN/homework3
 ## Project
 https://github.com/DarrenJAN/portfolio-content
 
