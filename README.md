@@ -13,6 +13,7 @@ https://darrenjan.github.io/homework4/
 https://github.com/DarrenJAN/homework4
 ## Project
 https://github.com/DarrenJAN/portfolio-content
+https://darrenjan.github.io/portfolio-content
 
 ## Github IO
 https://darrenjan.github.io/
